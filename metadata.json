@@ -1,0 +1,11 @@
+{
+  "name": "Sensor Data Dashboard",
+  "description": "Android mobile sensor telemetry dashboard, step counter, CSV session recorder, and Flutter Android 8.0+ project.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
